@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ohitsremi
 - 👀 I’m interested in dev tools
-- 🌱 I’m currently learning React
+- 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
